@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @betta-coder
-- 👀 I’m interested in C/C++, MUC, 3DPrinting
-- 🌱 I’m currently learning RPi Pico, OpenCV
-- 💞️ I’m looking to collaborate on RPi Pico
+- 👀 I’m interested in C/C++, 3DPrinting, OpenCV, HMI, microcontrollers
 
 
 <!---
